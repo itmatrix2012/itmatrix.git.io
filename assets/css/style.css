@@ -876,9 +876,9 @@ section {
 }
 
 .portfolio #portfolio-flters li {
-   cursor: pointer;
+  cursor:pointer;
   display:inline;
-  margin: 10px 5px;
+  margin: 5px 5px;
   font-size: 8px;
   
   font-weight: 800;
@@ -887,10 +887,11 @@ section {
   color: #444444;
   transition: all 0.3s;
   padding: 8px 20px;
-  border-radius: 5px;
+  border-radius: 2px;
   font-family: "Poppins", sans-serif;
   transition: all 0.6s;
   overflow:hidden;
+  
   
 }
 
@@ -898,6 +899,7 @@ section {
 .portfolio #portfolio-flters li.filter-active {
   background: #47b2e4;
   color: #fff;
+  text-align: center;
 }
 
 .portfolio .portfolio-item {
