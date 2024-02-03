@@ -378,6 +378,9 @@ h6 {
   width: 100%;
   height: 80vh;
   background: #37517e;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/IMG-20230915-WA0018\ \(1\).jpg") fixed center center;
+  background-size: cover;
+  padding: 120px 0;
 }
 
 #hero .container {
